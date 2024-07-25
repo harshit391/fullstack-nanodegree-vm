@@ -1,9 +1,3 @@
-#setup ubuntu and centos boxes
+# Full Tutorial to Install
 
-### vagrant up  
-### vagrant halt  
-
-## if SSL error occurs means your firewall blocks it. 
-### run: vagrant box add --insecure <boxname>
-### ex:  vagrant box add --insecure bento/ubuntu-16.04
- 
+https://docs.google.com/document/d/198EYHJz3DeO_pPw0Zed8LeaOvmvOM3ot6PsI6RfnjnQ/edit

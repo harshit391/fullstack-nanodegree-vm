@@ -1,0 +1,12 @@
+To Reach to shared folder use following command in git bash
+
+vagrant up -- this command fire ups the vm
+vagrant ssh -- this command open the linux cli from ur vm
+
+Now using the following commands reach to the shared Folder.
+
+cd /
+cd vagrant
+
+
+This folder named "vagrant" is the shared folder any file in that folder is also their in the location of shared folder in your system

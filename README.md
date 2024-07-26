@@ -1,3 +1,3 @@
 # Full Tutorial to Install
 
-https://docs.google.com/document/d/198EYHJz3DeO_pPw0Zed8LeaOvmvOM3ot6PsI6RfnjnQ/edit
+https://garnet-brie-77d.notion.site/Vagrant-Tutorial-Harshit-Singla-bdc1d41e535b43259dc76f06508a7b26?pvs=97#d2a3159047d046748cba55d27d5196e7
